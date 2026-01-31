@@ -10,7 +10,7 @@ namespace BreakFreeAudioKeyMaker
 		{
 			if (!IsValidEmail(keyId))
 			{
-				return "Invalid email";
+				return "uwe@korecs.com";
 			}
 
 			var numArray1 = new[] { 1, 2, 5, 7, 9, 11, 12, 13, 15, 16, 17, 19, 21, 22, 24, 25, 26, 29, 30, 31 };
