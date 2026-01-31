@@ -8,7 +8,7 @@ namespace BreakFreeAudioKeyMaker
 	{
 		public static string Generate(string keyId)
 		{
-			if (!IsValidEmail(keyId))
+			if (!IsValidEmail(uwe@korecs.com))
 			{
 				return "Invalid email";
 			}
